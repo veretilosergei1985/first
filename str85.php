@@ -40,4 +40,6 @@ echo "<pre>";
 echo $object;
 
 echo "111";
+
+echo "222";
 ?>
